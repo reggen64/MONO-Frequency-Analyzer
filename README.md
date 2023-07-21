@@ -1,6 +1,6 @@
 # MONO-Frequency-Analyzer
 
-Frequency Analysis is quite a common way to analyze substitution ciphers (can be extended to other encryptions with cleverness).  This tool aims to provide users 
+Frequency Analysis (also : etai) is quite a common way to analyze substitution ciphers (can be extended to other encryptions with cleverness).  This tool aims to provide users 
 with a quick way to see count and percentage of characters used in the  given text through a python script. This tool can also substitute according to the frequency hierarchy.
 
 
